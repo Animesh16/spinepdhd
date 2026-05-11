@@ -1,0 +1,9 @@
+*.root
+*.log
+*.tmp
+*.d
+*.so
+*.pcm
+build*
+localProducts*
+__pycache__/
